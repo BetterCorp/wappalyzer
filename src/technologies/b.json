@@ -493,6 +493,39 @@
     "scriptSrc": "//betteruptime\\.com/",
     "website": "https://betterstack.com/better-uptime"
   },
+  "Better-Service-Base": {
+    "cats": [
+      12,
+      22
+    ],
+    "description": "Better-Service-Base is a simple yet scalable microservice base",
+    "icon": "BSBCode.png",
+    "oss": true,
+    "website": "https://bsbcode.dev/"
+  },
+  "BetterPortal": {
+    "cats": [
+      9,
+      46,
+      53,
+      58,
+      66,
+      88
+    ],
+    "description": "BetterPortal ",
+    "icon": "BetterPortal.png",
+    "implies": [
+      "Better-Service-Base"
+    ],
+    "js": {
+      "bsb": ""
+    },
+    "saas": true,
+    "website": "https://www.betterportal.cloud/",
+    "xhr": [
+      "whoami\\.betterportal\\.cloud"
+    ]
+  },
   "Betty Blocks": {
     "cats": [
       47,
