@@ -517,12 +517,16 @@
     "implies": [
       "Better-Service-Base"
     ],
+    "meta": {
+      "generator": "BetterPortal"
+    },
     "js": {
       "bsb": ""
     },
     "saas": true,
     "website": "https://www.betterportal.cloud/",
     "xhr": [
+      "betterportal\\.cloud",
       "whoami\\.betterportal\\.cloud"
     ]
   },
